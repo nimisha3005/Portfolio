@@ -24,15 +24,13 @@ const AboutMe = () => (
         <h2 class="heading">about.</h2>
         <div class="about-summary" data-aos="fade-right">
             <p>
-                I'm a graduate of USC's Class of 2023 and my passion is Computer Science.
-                <br></br>
-                My interests inclines towards Artificial Intelligence, Machine Learning, Computer Vision, and Natural Language Processing, complemented by a solid Software Engineering mindset.
+                I'm a Masters student at <a href="https://www.usc.edu/" target="_blank">University of Southern California</a> working towards my Master of Science (M.Sc.) degree in Computer Science with specialization in Artificial Intelligence.           
             </p>
             <p>
-                I'm currently a graduate student working towards my Master of Science (M.Sc.) degree in Computer Science with specialization in Artificial Intelligence.
+            My interests inclines towards Artificial Intelligence, Machine Learning, Computer Vision, and Natural Language Processing, complemented by a solid Software Engineering mindset.
             </p>
             <p>
-                Prior to my studies at USC, I graduated with a Bachelors in Computer Science from GGSIPU Delhi. As an undergrad, I've had the pleasure to work with Prof.&nbsp;
+                Prior to my studies at USC, I graduated with a Bachelors in Computer Science from <a href="https://mait.ac.in/" target="_blank">MAIT, GGSIPU Delhi</a>. As an undergrad, I've had the pleasure to work with Prof.&nbsp;
                 <a href="https://cse.mait.ac.in/index.php?option=com_content&view=article&id=398" target="_blank">Prerna Sharma</a>
                 , Prof.&nbsp;
                 <a href="https://cse.mait.ac.in/index.php?option=com_content&view=article&id=387" target="_blank">Deepak Gupta</a>
